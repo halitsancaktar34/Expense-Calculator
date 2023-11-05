@@ -7,7 +7,6 @@
 <ul>
         <li>Created using Html, Css and Javascript</li>
         <li>Full responsive</li>
-        <li>User preferences, reservation details, and selected seats are stored in local storage.</li>
         <li>Usernames are stored in the browser's local storage for authentication purposes.</li>
         <li>Different animations are used</li>
 </ul>
